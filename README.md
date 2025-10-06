@@ -18,3 +18,8 @@ An iOS Shortcut that switches to the **next installed Apple Watch face** every
 👉 [Auto Setup(Not performance optimized, just click run and all done by the shortcut)](https://www.icloud.com/shortcuts/b0c81669230a4547a02c324f95f8fe20)
 
 👉 [Manual setup(Optimzed, need to specify how many watch face installed and create the note before first run)](https://www.icloud.com/shortcuts/75a42e028a574a09a5041f870d2b6678)
+
+## Related Shortcuts
+[AutoTick.shortcut](https://github.com/jamie950315/AutoTick.shortcut)
+
+[CycleVariableIndexInNotes.shortcut](https://github.com/jamie950315/CycleVariableIndexInNotes.shortcut)
