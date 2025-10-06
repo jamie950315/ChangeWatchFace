@@ -15,6 +15,6 @@ An iOS Shortcut that switches to the **next installed Apple Watch face** every
 
 **Download:**
 
-👉 [Auto Setup(Not performance optimized, just click run and all done by the shortcut)](https://www.icloud.com/shortcuts/145b0d37086d446a8d53b9aa5b1edad2)
+👉 [Auto Setup(Not performance optimized, just click run and all done by the shortcut)](https://www.icloud.com/shortcuts/b0c81669230a4547a02c324f95f8fe20)
 
-👉 [Manual setup(Optimzed, need to specify how many watch face installed and create the note before first run)](https://www.icloud.com/shortcuts/78c262a3c708484faa1bf8812c6006d9)
+👉 [Manual setup(Optimzed, need to specify how many watch face installed and create the note before first run)](https://www.icloud.com/shortcuts/75a42e028a574a09a5041f870d2b6678)
